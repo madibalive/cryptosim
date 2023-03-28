@@ -23,7 +23,6 @@
     "test": "jest",
     "lint": "eslint"
   },
-  "type": "module",
   "files": [
     "lib",
     "data"
